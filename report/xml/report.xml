@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Miles-PC" name="pytest" skipped="0" tests="2" time="0.411" timestamp="2020-04-16T21:32:58.915530"><testcase classname="test_case.test_fore" file="test_case\test_fore.py" line="5" name="test_login" time="0.036"><system-out>http://192.168.1.5:9091/api/v1/user/login
+user01 pwd
+{&apos;access_token&apos;: &apos;3b6754f00bb0063071c5b71ce2b56b4ed0ce56a63493e785bea85b74c41ce200&apos;, &apos;code&apos;: &apos;200&apos;, &apos;message&apos;: &apos;login success&apos;}
+</system-out></testcase><testcase classname="test_case.test_login" file="test_case\test_login.py" line="5" name="test_login" time="0.013"><system-out>http://192.168.1.5:9091/api/v1/user/login
+user01 pwd
+{&apos;access_token&apos;: &apos;3b6754f00bb0063071c5b71ce2b56b4ed0ce56a63493e785bea85b74c41ce200&apos;, &apos;code&apos;: &apos;200&apos;, &apos;message&apos;: &apos;login success&apos;}
+</system-out></testcase></testsuite></testsuites>

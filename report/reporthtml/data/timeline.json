@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Miles-PC",
+    "children" : [ {
+      "name" : "5880-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "c29ab2f3f34d6945",
+        "parentUid" : "ab8d5c8502176fa8f67fc91196a8292c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587044200593,
+          "stop" : 1587044200606,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login",
+        "uid" : "74ee40174e08c873",
+        "parentUid" : "ab8d5c8502176fa8f67fc91196a8292c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587044200550,
+          "stop" : 1587044200587,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab8d5c8502176fa8f67fc91196a8292c"
+    } ],
+    "uid" : "c7aea12b3f378b5ed8c0804a6d3fb6d2"
+  } ]
+}
